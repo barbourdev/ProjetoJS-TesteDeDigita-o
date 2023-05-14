@@ -1,1 +1,1 @@
-# ProjetoJS-TesteDeDigita-o
+# ProjetoJS-TesteDeDigitacao
